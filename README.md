@@ -1,6 +1,6 @@
 # KMP Knuth–Morris–Pratt string search algorithm implemented in Python
 
-String algorithm for fun! Detailed information can be found on my blogger [MuTuX](http://www.mutux.com/2017/04/string-agorothms-kmp-in-python.html "mutux's blog on text mining").
+String algorithm for fun! Detailed information can be found on my blogger [MuTuX](http://www.mutux.com/2017/04/17/string-agorothms-kmp-in-python.html "mutux's blog on text mining").
 
 ## Examples
 
